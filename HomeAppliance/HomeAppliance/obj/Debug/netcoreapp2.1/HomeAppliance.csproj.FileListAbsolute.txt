@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Honeywell Project\honeywell-ui-challenge\HomeAppliance\HomeAppliance\bin\Debug\netcoreapp2.1\HomeAppliance.deps.json
+C:\Users\Administrator\Desktop\Honeywell Project\honeywell-ui-challenge\HomeAppliance\HomeAppliance\bin\Debug\netcoreapp2.1\HomeAppliance.runtimeconfig.json
+C:\Users\Administrator\Desktop\Honeywell Project\honeywell-ui-challenge\HomeAppliance\HomeAppliance\bin\Debug\netcoreapp2.1\HomeAppliance.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Honeywell Project\honeywell-ui-challenge\HomeAppliance\HomeAppliance\bin\Debug\netcoreapp2.1\HomeAppliance.dll
+C:\Users\Administrator\Desktop\Honeywell Project\honeywell-ui-challenge\HomeAppliance\HomeAppliance\bin\Debug\netcoreapp2.1\HomeAppliance.pdb
+C:\Users\Administrator\Desktop\Honeywell Project\honeywell-ui-challenge\HomeAppliance\HomeAppliance\obj\Debug\netcoreapp2.1\HomeAppliance.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Honeywell Project\honeywell-ui-challenge\HomeAppliance\HomeAppliance\obj\Debug\netcoreapp2.1\HomeAppliance.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Honeywell Project\honeywell-ui-challenge\HomeAppliance\HomeAppliance\obj\Debug\netcoreapp2.1\HomeAppliance.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Honeywell Project\honeywell-ui-challenge\HomeAppliance\HomeAppliance\obj\Debug\netcoreapp2.1\HomeAppliance.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\Honeywell Project\honeywell-ui-challenge\HomeAppliance\HomeAppliance\obj\Debug\netcoreapp2.1\HomeAppliance.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Honeywell Project\honeywell-ui-challenge\HomeAppliance\HomeAppliance\obj\Debug\netcoreapp2.1\HomeAppliance.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Honeywell Project\honeywell-ui-challenge\HomeAppliance\HomeAppliance\obj\Debug\netcoreapp2.1\HomeAppliance.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Honeywell Project\honeywell-ui-challenge\HomeAppliance\HomeAppliance\obj\Debug\netcoreapp2.1\HomeAppliance.dll
+C:\Users\Administrator\Desktop\Honeywell Project\honeywell-ui-challenge\HomeAppliance\HomeAppliance\obj\Debug\netcoreapp2.1\HomeAppliance.pdb
